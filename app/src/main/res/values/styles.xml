@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Project5" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Project5.Dark" parent="Theme.Material3.Dark.NoActionBar">
+    </style>
+
+    <style name="Theme.Project5.DarkAction" parent="Theme.MaterialComponents.DayNight.DarkActionBar" tools:ignore="DuplicateDefinition">
+    </style>
+</resources>
